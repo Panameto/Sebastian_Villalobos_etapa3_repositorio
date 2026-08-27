@@ -27,7 +27,7 @@ En caso de tener un servidor de respaldo activarlo hubiera sido bueno, sino pone
 <!-- ¿Qué acción concreta permitió que la aplicación siguiera operando para
      citas de emergencia? Esta acción debe reflejarse en un commit de este
      repositorio con un mensaje descriptivo. -->
-
+Poner en funcionamiento los servidores de respaldo.
 
 
 **Commit de recuperación:** (pegue aquí el hash o el mensaje del commit)
