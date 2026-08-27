@@ -1,8 +1,8 @@
 # Bitácora de supervivencia — CitasSalud+
 
-**Estudiante:** ____________________
+**Estudiante:** Sebastián Villalobos Taborda
 **Sección:** 11-6
-**Fecha:** ____________________
+**Fecha:** 27/08/2026
 
 ## Escenario
 
