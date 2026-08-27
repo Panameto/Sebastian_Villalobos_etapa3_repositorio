@@ -13,13 +13,13 @@ se satura y queda fuera de línea.
 ## 1. Identificación
 
 <!-- ¿Cómo se detectó que el servidor había caído? ¿Qué señal o dato lo evidenció? -->
-
+La falta de servicio total, el servidor se encontraba saturado y no recibía ni enviaba información, por lo que la no funcionalidad del servicio era una prueba.
 
 
 ## 2. Contención
 
-<!-- ¿Qué acción se tomó de inmediato para limitar el impacto? -->
-
+<!-- ¿Qué acción se tomó de inmediato para limitar el impacto? -->}
+En caso de tener un servidor de respaldo activarlo hubiera sido bueno, sino poner el sitio inmediatamente en mantenimiento, hacer un anuncio con esta información para los usuarios y mandar el programa a revisión.
 
 
 ## 3. Recuperación
